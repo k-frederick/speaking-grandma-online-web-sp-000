@@ -19,9 +19,5 @@ def speak_to_grandma(string)
     puts "HUH?! SPEAK UP, SONNY!"
   elsif "Hi!" == "Hi!".upcase
     puts "HUH?! SPEAK UP, SONNY!"
-  elsif
-    puts "NO, NOT SINCE 1938!"
-  else
-    puts "NO, NOT SINCE 1938!"
   end
 end
