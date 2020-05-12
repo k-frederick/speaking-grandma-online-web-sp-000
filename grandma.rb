@@ -23,7 +23,8 @@ def speak_to_grandma.upcase?
     puts "NO, NOT SINCE 1938!"
   elsif
     puts "NO, NOT SINCE 1938!"
-
+  else 
+    puts
 
   end
 end
