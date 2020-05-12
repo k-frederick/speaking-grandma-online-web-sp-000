@@ -19,11 +19,11 @@ def speak_to_grandma.upcase?
     puts "HUH?! SPEAK UP, SONNY!"
   elsif "Hi!"
     puts "HUH?! SPEAK UP, SONNY!"
-  elsif 
+  elsif
     puts "NO, NOT SINCE 1938!"
-  elsif 
+  elsif
     puts "NO, NOT SINCE 1938!"
-    
+
 
   end
 end
